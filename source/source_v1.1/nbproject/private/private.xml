@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_dao/dao_thongtinsach_impl.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_model/mdl_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_view/jf_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_model/mdl_theloai.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_model/mdl_tacgia.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_view/jf_add.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/BorrowManager/Model/mdl_thedocgia.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/BorrowManager/Model/mdl_ctphieumuonsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/LoginAndRegister/Login.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_service/sv_thongtinsach_impl.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_controller/ctl_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_service/sv_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/BorrowManager/Model/mdl_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/BorrowManager/Model/mdl_phieumuonsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/Dashboard/MainDashboard.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_controller/ctl_add.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_dao/DBConnect.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/ReturnManager/Model/mdl_ctphieutrasach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BorrowAndReturnManager/BorrowManager/View/jf_phieumuonsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_dao/dao_thongtinsach.java</file>
+            <file>file:/C:/NQK-08102002/workspace/java_project/source/source_v1.1/src/BooksManager/lm_utility/ClassTableModel.java</file>
+        </group>
+    </open-files>
+</project-private>
